@@ -86,6 +86,10 @@ nav {
     
 }
 
+.link a:hover {
+    color: #e8ac2c;
+}
+
 .submenu {
     display: block;
     visibility: hidden;
@@ -102,7 +106,10 @@ nav {
 	text-decoration: none;
 }
 
-
+.linksnavegacion li:hover .submenu{
+	visibility: visible;
+	opacity: 1;
+}
     
 
 
