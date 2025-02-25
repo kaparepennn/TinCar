@@ -16,3 +16,95 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+
+.btn {
+    padding: 0.75rem 2rem;
+    outline: none;
+    border: none;
+    font-size: 1rem;
+    color: #e8ac2c;
+    background-color: #7e5316;
+    border-radius: 5rem;
+    cursor: pointer;
+    transition: 0.3s;
+} 
+
+.btn a{
+    text-decoration: none;
+    color: #e8ac2c;
+}
+
+.btn:hover {
+    background-color: var(--primary-color);
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    dicplay: block;
+
+}
+
+nav {
+    padding: 1rem;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+    max-width: var(--max-width);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: var(--text-dark);
+    cursor: pointer;
+}
+
+.logo span {
+    color: var(--primary-color);
+}
+
+.linksnavegacion {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.link a {
+    padding: 0 1rem;
+    color: var(--text-dark);
+    transition: 0.3s;
+    
+}
+
+.submenu {
+    display: block;
+    visibility: hidden;
+    list-style: none;
+    align-items: center;
+    gap: 1rem;
+}
+
+.submenu li a {
+    display: block;
+	padding: 15px;
+	color: 	var(--text-dark);
+	font-family: 'Poppins', sans-serif;
+	text-decoration: none;
+}
+
+
+    
+
+
+
+
