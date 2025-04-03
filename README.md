@@ -1,10 +1,10 @@
 # TinCar
 Guardamos tu tranquilidad en casa.
 
+La medida de minimizar la movilidad y congestión en las vías públicas, se dirige a los conductores en necesidad de parquear vehículos en su domicilio, aprovechando esta situación hemos creado una aplicación que permite obtener el servicio y reserva del parqueadero.
+
 **Integrantes:** Edgar Mojica, Karen Palacios, Cristian Rincón, Diego Hernández Altamiranda y Santiago Becerra.
 ![nosotros](https://github.com/user-attachments/assets/f6f6ae8d-06fc-41f0-b812-767919fb4575)
-
-La medida de minimizar la movilidad y congestionación en las vías públicas, se dirige a los conductores en necesidad de parquer vehículos en su domicilio, aprovechando a ellas una aplicación que permite servicio y reserva del parqueadero.
 
 **Objetivo general**
 Queremos minimizar la mala movilidad causada por el mal estacionamiento en las vías públicas, va dirigido a los conductores que se vean en la necesidad de parquear en la vía pública por falta de estacionamientos visibles o cercanos, lo haremos a través de una aplicación que permite que las personas que tienen un espacio en su domicilio para poder parquear vehículos ofrezcan este lugar como parqueadero para que los conductores que se encuentren por la zona del arrendador puedan solicitar el servicio y contar con este parqueadero para no afectar las vías y evitar congestiones y quizá multas.
