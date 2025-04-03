@@ -4,6 +4,7 @@ Guardamos tu tranquilidad en casa.
 La medida de minimizar la movilidad y congestión en las vías públicas, se dirige a los conductores en necesidad de parquear vehículos en su domicilio, aprovechando esta situación hemos creado una aplicación que permite obtener el servicio y reserva del parqueadero.
 
 **Integrantes:** Edgar Mojica, Karen Palacios, Cristian Rincón, Diego Hernández Altamiranda y Santiago Becerra.
+
 ![nosotros](https://github.com/user-attachments/assets/f6f6ae8d-06fc-41f0-b812-767919fb4575)
 
 **Objetivo general**
