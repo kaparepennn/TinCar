@@ -5,7 +5,7 @@
       <link rel="stylesheet" href="css/bootstrap.min.css">
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>Registro conductor</title>
+      <title>Crear usuario conductor</title>
       <link rel="icon" href="images/LogoTincarACT.jpg">
   </head>
 
@@ -38,16 +38,7 @@
   <div class="container text-center" style="padding: 2rem;">
     <div class="row align-items-center">
       <div class="col">
-        <h3 style="color: #7e5316;">Registro conductor Be TinCar</h3>
-        <img src="images/registrousuario1.avif" alt="inicioregistro" style="height: 300px; width: 500px; border-radius: 2rem; border: 3rem #7e5316;">
-      </div>
-    </div>
-  </div>
-
-  <div class="container text-center" style="padding: 2rem;">
-    <div class="row align-items-center">
-      <div class="col">
-        <h4 style="color: #7e5316;">Información personal</h4>
+        <h4 style="color: #7e5316;">Crear usuario conductor</h4>
       </div>
     </div>
   </div>
@@ -57,34 +48,26 @@
       <div class="col">
         <form class="row g-3">
             <div class="col-md-6">
-              <label for="inputname" class="form-label">Nombres</label>
-              <input type="name" class="form-control" id="inputname">
+              <label for="username" class="form-label">Crear usuario</label>
+              <span class="input-group-text" id="basic-addon1">@</span>
+  <input type="text" class="form-control" placeholder="Username" aria-label="ejemplo: @Username" aria-describedby="basic-addon1">
             </div>
             <div class="col-md-6">
-              <label for="inputlastname" class="form-label">Apellidos</label>
-              <input type="lastname" class="form-control" id="inputlastname">
+              <label for="inputPassword5" class="form-label">Contraseña</label>
+<input type="password" id="inputPassword5" class="form-control" aria-describedby="passwordHelpBlock">
+<div id="passwordHelpBlock" class="form-text">
+  Su contraseña debe tener entre 8 y 20 caracteres, contener letras y números, y no debe contener espacios, caracteres especiales ni emojis.
+</div>
             </div>
               <div class="col-md-6">
-                <label for="inputState" class="form-label">Tipo de documento</label>
-                <select id="inputState" class="form-select">
-                  <option selected>Opción...</option>
-                  <option>Cédula de ciudadanía</option>
-                  <option>Cédula de extranjería</option>
-                  <option>Pasaporte</option>
-                </select>
-              </div>
+               <label for="inputPassword5" class="form-label">Confirmar contraseña</label>
+<input type="password" id="inputPassword5" class="form-control" aria-describedby="passwordHelpBlock">
               <div class="col-md-6">
-                <label for="inputCity" class="form-label">Número de documento</label>
-                <input type="text" class="form-control" id="inputCity">
+                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
+                  <label class="form-check-label" for="flexCheckDefault">
+                    <a style="text-decoration:underline;" href="terminosycondiciones.html">No soy un robot</a>
+                  </label>
               </div>
-              <div class="col-md-6">
-                  <label for="exampleDropdownFormEmail1" class="form-label">Correo electrónico</label>
-        <input type="email" class="form-control" id="exampleDropdownFormEmail1" placeholder="email@example.com">
-                </div>
-                <div class="col-md-6">
-                  <label for="inputphone" class="form-label">Teléfono</label>
-                <input type="phone" class="form-control" id="inputphone">
-                </div>
             <div class="col-12">
                 <div class="form-check">
                   <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
